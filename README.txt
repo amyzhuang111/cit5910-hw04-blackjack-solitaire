@@ -43,3 +43,10 @@ I used Git to track changes. The git log is included with the submission.
 
 Required: BlackjackSolitaire.java, BlackjackSolitaireRunner.java, Card.java, Deck.java, and README.txt.
 Optional: BlackjackSolitaireTest.java.
+
+Manual testing
+
+Compiled the four Java source files successfully.
+Ran BlackjackSolitaireRunner in the terminal.
+Completed a game by filling all 16 scoring positions.
+Verified that the game displayed the final score and exited.
