@@ -25,8 +25,6 @@ From the src folder:
   javac Card.java Deck.java BlackjackSolitaire.java BlackjackSolitaireRunner.java
   java BlackjackSolitaireRunner
 
-You can also run BlackjackSolitaireRunner.main from IntelliJ.
-
 4. How to test
 
 From the src folder:
@@ -39,14 +37,10 @@ The tests cover cards, building the deck, legal placements, discards, and hand s
 
 I used Git to track changes. The git log is included with the submission.
 
-6. Submission
-
-Required: BlackjackSolitaire.java, BlackjackSolitaireRunner.java, Card.java, Deck.java, and README.txt.
-Optional: BlackjackSolitaireTest.java.
 
 Manual testing
 
-Compiled the four Java source files successfully.
-Ran BlackjackSolitaireRunner in the terminal.
-Completed a game by filling all 16 scoring positions.
-Verified that the game displayed the final score and exited.
+I compiled the four Java source files.
+I ran BlackjackSolitaireRunner in the terminal.
+I completed a game by filling all 16 scoring positions.
+I verified that the game displayed the final score and exited.
